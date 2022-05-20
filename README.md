@@ -1,6 +1,6 @@
 # Python_Image_Classification
 
-This notebook was created for [this](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview) expired Kaggle competition which aimed to classify cat and dog images.
+This notebook was created using data from [this](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview) expired Kaggle competition which aimed to classify cat and dog images.
 
 
 In order to classify the images, I built two different models. 
